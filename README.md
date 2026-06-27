@@ -49,11 +49,11 @@ A full-stack pizza ordering and delivery web application with separate Admin and
 ```
 Pizza-Delivery-Website/
 ├── admin/             # Admin panel pages
-├── customer/          # Customer-facing pages
-├── includes/          # Shared PHP includes (DB connection, header, footer)
+├── user/          # Customer-facing pages
+├── config/          # Shared PHP includes (DB connection)
 ├── assets/            # CSS, JS, images
 ├── database.sql       # Database schema
-└── README.md
+└── index.php      #Main entry file
 ```
 
 ## Known Limitations
