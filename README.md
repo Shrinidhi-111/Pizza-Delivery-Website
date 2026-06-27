@@ -17,7 +17,7 @@ A full-stack pizza ordering and delivery web application with separate Admin and
 
 - **Backend:** PHP
 - **Database:** MySQL
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Frontend:** HTML, CSS, Bootstrap
 - **Environment:** XAMPP (Apache + MySQL)
 
 ## How It Works
@@ -37,7 +37,7 @@ A full-stack pizza ordering and delivery web application with separate Admin and
    cd C:\xampp\htdocs
    git clone https://github.com/Shrinidhi-111/Pizza-Delivery-Website.git
    ```
-3. Create a MySQL database (e.g. `pizzahub`) using phpMyAdmin and import the provided SQL file.
+3. Create a MySQL database (e.g. `pizza_delivery_db`) using phpMyAdmin and import the provided SQL file.
 4. Update the database connection details in the project's config file to match your local MySQL setup.
 5. Open your browser and go to:
    ```
